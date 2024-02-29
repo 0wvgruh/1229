@@ -1,0 +1,21 @@
+h1{
+    display: inline-block; 
+    /* 넓이가 요소(글자)크기만큼 적용된다. 별도로 넓이 높이를 줄 수도 있음 */
+    font-size: 1.4em;
+    background-color: #222;
+    color:#fff;
+    padding: 10px;
+
+
+}
+ul{
+    list-style: none;
+    /* 블릿없애기 */
+}
+li{
+    font-size: 1.2em;
+    line-height: 1.5;
+    color:blue;
+
+}
+
